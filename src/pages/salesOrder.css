@@ -1,0 +1,22 @@
+.salesOrder {
+  padding-left: 10%;
+  min-height: 100vh;
+  height: 100%;
+  background-color: #eaeded;
+  padding-top: 3%;
+}
+
+.salesOrder__button > button {
+  width: 100px;
+  height: 50px;
+  margin-left: 20px;
+  cursor: pointer;
+  background-color: #cd9042;
+  border-radius: 2px;
+  border: 1px solid yellow;
+}
+.salesOrder__button {
+  display: flex;
+  align-items: center;
+  margin-bottom:30px
+}

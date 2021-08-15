@@ -1,0 +1,36 @@
+.shop__create {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.shop__form {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.shop__create > h3 {
+  text-align: center;
+}
+
+.shop__product {
+  margin-top: 20px;
+  background-color: rgb(214, 214, 214);
+  padding-left:10%;
+}
+.shop__product > h2 {
+  text-align: center;
+}
+
+.shop__form > h6 {
+  margin-top: 10px;
+}
+
+.shop__form > button {
+  margin-top: 10px;
+  background-color: #CD9042;
+  border-radius: 2px;
+  cursor: pointer;
+}

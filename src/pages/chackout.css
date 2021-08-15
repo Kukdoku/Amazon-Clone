@@ -1,0 +1,28 @@
+.checkout__ad {
+  min-width: 50vw;
+  /* width: 70vw; */
+  width: 100%;
+
+  /* margin-left: 20%; */
+  /* height: 20vh; */
+  margin-bottom: 10px;
+  
+}
+
+.checkout {
+  display: flex;
+  /* grid-template-columns: 70% 30%; */
+  padding: 20px;
+  background-color: white;
+  height: max-content;
+}
+
+.checkout__title {
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
+
+.checkout__left{
+    margin-right: 20px
+}
